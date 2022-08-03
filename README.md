@@ -1,3 +1,2 @@
 # delete-me
-testy
-hello
+Alright this is a reminder test that it still works.
